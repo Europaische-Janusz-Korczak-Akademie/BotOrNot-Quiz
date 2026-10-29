@@ -74,7 +74,7 @@ Single Line Comments can be written with `#` (Only at the beginning of a line). 
 
 **Naming Conventions**
 
-Questions should just be named: `[NAME].ybki`. The Media should be labeled `[NAME]_FAKE_[CONTENT].*` or `[NAME]_REAL_[CONTENT].*`
+Question files should be named `[NAME]_RegularQuestions.ybki` or `[NAME]_Media.ybki`. Media should be labeled `[NAME]_FAKE_[CONTENT].*` or `[NAME]_REAL_[CONTENT].*`.
 
 ### Converting `.ybki` to the `Questions.js` File
 

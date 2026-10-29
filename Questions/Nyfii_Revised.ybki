@@ -1,0 +1,307 @@
+Question: Was bedeutet "Training" bei einer KI in einfachen Worten?
+Answer: Die KI lernt aus Daten oder Rückmeldungen, um bessere Entscheidungen zu treffen
+Answer: Die KI geht zur Schule mit menschlichen Lehrern
+Answer: Die KI verbessert automatisch ihre Hardware
+Answer: Die KI kopiert Antworten direkt aus dem Internet
+Explanation: Training heißt, dass die KI ihre Parameter durch viele Beispiele anpasst. Zur Schule gehen ist eine menschliche Metapher. Hardware-Verbesserung hat mit Training nichts zu tun. Antworten aus dem Internet zu kopieren ist kein Lernprozess, sondern nur Abrufen.
+Label: Grundlagen
+
+---
+
+Question: Wovon sind neuronale Netze inspiriert?
+Answer: Neuronale Netze sind lose vom Gehirn inspiriert, bilden es aber nicht biologisch nach
+Answer: Sie folgen genau denselben biologischen Abläufen wie Nervenzellen, nur in digitaler Form
+Answer: Sie bestehen aus echten Nervenzellen, die mit elektronischen Bauteilen verbunden sind
+Answer: Sie bilden die Verbindungen im menschlichen Gehirn vollständig und maßstabsgetreu nach
+Explanation: Künstliche neuronale Netze greifen eine grobe Idee des Gehirns auf, sind aber mathematische Modelle und keine genauen Nachbildungen biologischer Nervennetze.
+Label: Grundlagen
+
+---
+
+Question: Welche Aussage zu Unsicherheit bei KI-Antworten trifft am ehesten zu?
+Answer: Eine KI kann überzeugend klingen, obwohl ihre Antwort unsicher oder falsch ist
+Answer: Eine überzeugende Formulierung zeigt, dass die Antwort zuverlässig geprüft wurde
+Answer: Eine KI kennzeichnet jede unsichere Aussage zuverlässig vor der Ausgabe
+Answer: Eine KI verweigert grundsätzlich jede Antwort, bei der sie unsicher ist
+Explanation: Der Tonfall einer KI-Antwort zeigt nicht zuverlässig, wie sicher oder richtig sie ist. Eine überzeugend formulierte Antwort kann trotzdem Fehler enthalten.
+Label: Grundlagen
+
+---
+
+Question: Was braucht die KI beim überwachten Lernen?
+Answer: Trainingsdaten mit Kennzeichnungen (richtigen Antworten)
+Answer: Unbegrenzten Speicherplatz
+Answer: Menschliche Gefühle
+Answer: Eine ständige Internetverbindung
+Explanation: Beim überwachten Lernen wird die KI mit Beispielen trainiert, bei denen die richtige Lösung schon bekannt ist. Speicherplatz allein ersetzt keine Kennzeichnungen. Gefühle sind irrelevant. Eine Internetverbindung ist nicht nötig, wenn die Daten lokal vorliegen.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Welche Aufgabe passt zum überwachten Lernen?
+Answer: Nachrichten anhand früher markierter Beispiele als Spam oder Nicht-Spam einordnen
+Answer: Kundendaten ohne vorgegebene Kategorien in Gruppen mit Gemeinsamkeiten ordnen
+Answer: Durch Ausprobieren Spielzüge wählen und für gute Ergebnisse Belohnungen erhalten
+Answer: Aus unbeschrifteten Beispielen wiederkehrende Muster in einer Datenmenge finden
+Explanation: Beim überwachten Lernen wird ein System mit Beispielen trainiert, für die die richtigen Kategorien bereits bekannt sind. Die anderen Antworten beschreiben unüberwachtes Lernen oder Lernen durch Belohnungen.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Wie funktioniert unüberwachtes Lernen?
+Answer: Ähnliche Bilder anhand wiederkehrender gemeinsamer Merkmale zu Gruppen zusammenfassen
+Answer: Bilder anhand vorher vergebener Themenetiketten passenden Gruppen zuordnen
+Answer: Bilder durch Ausprobieren sortieren und für passende Gruppen Belohnungen erhalten
+Answer: Jedes Bild einer Beschreibung aus einer vorgegebenen Liste zuordnen
+Explanation: Bei unüberwachtem Lernen erhält das System keine vorgegebenen Kategorien. Es kann zum Beispiel selbst Ähnlichkeiten zwischen Bildern finden und ähnliche Bilder gruppieren; das ist eine mögliche Anwendung, nicht die einzige.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Welche Lernmethode nutzt Belohnung und Bestrafung?
+Answer: Verstärkungslernen
+Answer: Überwachtes Lernen mit vorbereiteten Kennzeichnungen
+Answer: Unüberwachtes Lernen mit reinen Mustern
+Answer: Zufälliges Raten ohne jede Grundlage
+Explanation: Beim Verstärkungslernen passt die KI ihr Verhalten durch Rückmeldungen über Belohnungen oder Strafen an. Kennzeichnungen sind nur im überwachten Lernen wichtig. Mustererkennung ohne Rückmeldung ist unüberwacht. Zufall ohne Rückmeldung wäre kein systematisches Lernen.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Ein Team gibt einer KI Temperatur- und Vibrationsmesswerte einer Maschine. Welches Ergebnis könnte das System für die Wartungsplanung liefern?
+Answer: Die Messwerte deuten auf ein erhöhtes Risiko einer Störung in nächster Zeit hin
+Answer: Die Sensoren erfassen Temperatur und Vibration während des Maschinenbetriebs
+Answer: Die gespeicherten Messwerte werden nach Datum geordnet in einer Übersicht angezeigt
+Answer: Der bestehende Wartungsplan zeigt, wann die Maschine zuletzt kontrolliert wurde
+Explanation: Das System kann aus den Messwerten eine Einschätzung zum Störungsrisiko ableiten. Diese ist eine Vorhersage, keine Garantie, dass eine Störung tatsächlich eintritt.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Welches Beispiel zeigt eine Entscheidungsfunktion?
+Answer: Ein System wertet E-Mail-Merkmale aus und ordnet Nachrichten "Spam" oder "Posteingang" zu
+Answer: Ein System durchsucht gespeicherte E-Mails nach einem bestimmten Suchbegriff
+Answer: Ein System erstellt aus dem Text einer E-Mail eine kurze Zusammenfassung
+Answer: Ein System überträgt den Inhalt einer E-Mail vollständig in eine andere Sprache
+Explanation: Eine Entscheidungsfunktion ordnet Eingaben anhand ihrer Merkmale einem Ergebnis oder einer Kategorie zu. Die Einordnung als "Spam" oder "Posteingang" ist ein Beispiel dafür.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Welche Aufgabe gehört typischerweise zur Verarbeitung natürlicher Sprache?
+Answer: Ein System erkennt in einem Satz eine Frage und formuliert eine passende Antwort
+Answer: Ein System erkennt auf einem Foto verschiedene Gegenstände und benennt sie
+Answer: Ein System schätzt anhand von Messwerten, wann eine Maschine gewartet werden muss
+Answer: Ein System plant die Bewegungen eines Roboters, damit er Hindernissen ausweicht
+Explanation: Die Sprachverarbeitung beschäftigt sich mit menschlicher Sprache, etwa damit, Texte zu verarbeiten oder passende Antworten zu formulieren. Die anderen Beispiele betreffen Bildverarbeitung, Vorhersagen und Robotik.
+Label: Anwendungen und Fähigkeiten
+
+---
+
+Question: Welche Aufgabe gehört typischerweise zur Bildverarbeitung?
+Answer: Ein System erkennt auf einem Foto verschiedene Gegenstände und benennt sie
+Answer: Ein System erkennt in einem Satz eine Frage und formuliert eine passende Antwort
+Answer: Ein System schätzt anhand von Messwerten, wann eine Maschine gewartet werden muss
+Answer: Ein System empfiehlt anhand früherer Auswahlen ein passendes Musikstück
+Explanation: Die Bildverarbeitung umfasst Bilder und Videos, zum Beispiel wenn ein System Gegenstände darin erkennt. Die anderen Beispiele betreffen Sprache, Vorhersagen und Empfehlungen.
+Label: Anwendungen und Fähigkeiten
+
+---
+
+Question: Was zeigt die Angabe "87 % Katze, 11 % Hund, 2 % Fisch" bei einer Bilderkennung?
+Answer: "Katze" erhält den höchsten Wert; daraus folgt nicht automatisch die Trefferchance
+Answer: Die Werte zeigen exakt, wie viele Tiere jeder genannten Art auf dem Bild zu sehen sind
+Answer: Der höchste Wert beweist, dass auf dem Bild sicher eine Katze abgebildet ist
+Answer: Das System hat nur die drei genannten Tierarten verglichen und keine weiteren geprüft
+Explanation: "Katze" erhält den höchsten Wert unter den angezeigten Kategorien. Solche Werte sind aber nicht automatisch verlässliche Wahrscheinlichkeiten dafür, dass die Zuordnung stimmt.
+Label: Grundlagen
+
+---
+
+Question: Was bedeutet multimodale KI?
+Answer: Eine KI, die mit verschiedenen Datenarten arbeiten kann (z. B. Text, Bilder und Audio)
+Answer: Eine KI, die nur offline funktioniert
+Answer: Eine KI mit mehreren Persönlichkeiten gleichzeitig
+Answer: Eine KI, die mehrere Computer benötigt, um zu starten
+Explanation: Multimodale KI verarbeitet unterschiedliche Eingabearten wie Text, Bild und Ton. Offline-Nutzung, Persönlichkeiten oder mehrere Computer sind keine fachliche Definition.
+Label: Anwendungen und Fähigkeiten
+
+---
+
+Question: Was ist der Unterschied zwischen Training und Inferenz bei einer KI?
+Answer: Beim Training lernt das Modell aus Beispielen; bei der Inferenz wendet es das Gelernte an
+Answer: Beim Training erzeugt das Modell Antworten; bei der Inferenz sammelt es neue Trainingsdaten
+Answer: Beim Training werden Antworten geprüft; bei der Inferenz werden Fehler automatisch verbessert
+Answer: Beim Training wird das Modell gespeichert; bei der Inferenz wird es auf ein Gerät übertragen
+Explanation: Beim Training werden die Einstellungen des Modells anhand von Beispielen angepasst. Bei der Inferenz wird das trainierte Modell auf eine Eingabe angewendet, ohne es dabei normalerweise weiterzutrainieren.
+Label: Grundlagen
+
+---
+
+Question: Ein Bewerbungsfilter wird geprüft. Was soll eine Prüfung auf Verzerrungen dabei untersuchen?
+Answer: Ob gleich geeignete Bewerbungen je nach Gruppenzugehörigkeit systematisch anders bewertet werden
+Answer: Ob auch bei vielen Bewerbungen alle Unterlagen innerhalb kurzer Zeit sortiert werden
+Answer: Ob persönliche Bewerbungsangaben nach Abschluss des Verfahrens vollständig gelöscht werden
+Answer: Ob die festgelegten Auswahlkriterien in jeder Bewerbung nach denselben Regeln angewendet werden
+Explanation: Eine Prüfung auf Verzerrungen kann untersuchen, ob bestimmte Gruppen bei vergleichbarer Eignung systematisch schlechter bewertet werden. Sie kann Risiken aufdecken, aber für sich allein keine faire Auswahl garantieren.
+Label: Risiken und Ethik
+
+---
+
+Question: Was bewirkt eine übergeordnete Anweisung (Systemanweisung) bei einer generativen KI?
+Answer: Sie gibt dem Modell grundlegende Vorgaben, an denen es seine Antworten ausrichten soll
+Answer: Sie enthält alle Fakten aus den Trainingsdaten, die das Modell später wieder abrufen soll
+Answer: Sie speichert die Unterhaltung, damit das Modell sie in späteren Chats wiederverwenden kann
+Answer: Sie nennt die Internetseiten, die das Modell während jeder Antwort automatisch durchsucht
+Explanation: Eine Systemanweisung gibt grundlegende Vorgaben für das Verhalten des Modells. Sie ist weder ein vollständiger Speicher der Trainingsdaten noch automatisch ein Gesprächsarchiv oder eine Quellenliste.
+Label: Grundlagen
+
+---
+
+Question: Was beschreibt das Kontextfenster eines Sprachmodells?
+Answer: Es begrenzt, wie viel Eingabe und Gesprächsverlauf das Modell in einer Anfrage berücksichtigen kann
+Answer: Es begrenzt, wie viele Personen gleichzeitig mit einem Modell in einem Chat schreiben können
+Answer: Es legt fest, wie viele Antworten ein Modell innerhalb eines Tages ausgeben kann
+Answer: Es bestimmt, wie lange Informationen aus einem Gespräch dauerhaft gespeichert bleiben
+Explanation: Das Kontextfenster begrenzt, wie viel Kontext das Modell bei einer Anfrage gleichzeitig berücksichtigen kann. Es legt weder die Zahl der Chat-Teilnehmenden noch die tägliche Antwortmenge oder die dauerhafte Speicherung fest.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Warum hilft es einer generativen KI, wenn ein Auftrag klare Ziele und nötigen Kontext enthält?
+Answer: Sie kann ihre Antwort besser an die Aufgabe und den gewünschten Zweck anpassen
+Answer: Sie kann dadurch jede Antwort ohne zusätzliche Prüfung als richtig erkennen
+Answer: Sie kann dadurch automatisch auf Informationen zugreifen, die nicht im Auftrag stehen
+Answer: Sie kann dadurch alle Eingaben dauerhaft als Wissen für spätere Antworten speichern
+Explanation: Klare Ziele und Kontext helfen, die Antwort auf die gewünschte Aufgabe auszurichten. Sie garantieren weder richtige Antworten noch automatischen Zugriff auf fehlende Informationen oder dauerhaftes Lernen.
+Label: Anwendungen und Fähigkeiten
+
+---
+
+Question: Was bedeutet Feinabstimmung bei einem bereits trainierten KI-Modell?
+Answer: Das Modell wird mit zusätzlichen Beispielen gezielt für bestimmte Aufgaben weitertrainiert
+Answer: Die Eingabe wird verlängert, damit das Modell eine ausführlichere Antwort erzeugt
+Answer: Das Modell wird neu gestartet, damit es seine bisherigen Einstellungen zurücksetzt
+Answer: Das Modell wird technisch verkleinert, damit es weniger Speicherplatz auf dem Gerät benötigt
+Explanation: Bei der Feinabstimmung wird ein bereits trainiertes Modell mit zusätzlichen Beispielen weiter angepasst. Eine längere Eingabe oder ein Neustart verändert das Modell nicht.
+Label: Lernen und Entscheidungsfindung
+
+---
+
+Question: Warum setzen Anbieter bei manchen KI-Systemen Inhaltsfilter ein?
+Answer: Sie sollen riskante Ausgaben begrenzen und Regeln für die Nutzung des Systems umsetzen
+Answer: Sie sollen alle erzeugten Aussagen prüfen und sachlich richtige Antworten garantieren
+Answer: Sie sollen Antworten verkürzen und dadurch den Stromverbrauch des Systems senken
+Answer: Sie sollen jeder Antwort automatisch passende Quellen aus dem Internet hinzufügen
+Explanation: Filter können bestimmte riskante Ausgaben begrenzen und Vorgaben umsetzen. Sie garantieren jedoch weder sachlich richtige Antworten noch passende Quellen.
+Label: Risiken und Ethik
+
+---
+
+Question: Was ist eine mögliche Schwäche von Filtern, die nach bestimmten Wörtern suchen?
+Answer: Sie können harmlose Texte blockieren und umformulierte Inhalte übersehen
+Answer: Sie können den Sinn eines Textes auch ohne passende Schlüsselwörter erkennen
+Answer: Sie erkennen neue Begriffe ohne Anpassung genauso sicher wie bekannte
+Answer: Sie können mehrdeutige Begriffe zuverlässig anhand des Satzkontexts einordnen
+Explanation: Einfache Wortfilter können den Zusammenhang übersehen: Ein harmloser Text kann ein auffälliges Wort enthalten, während problematische Inhalte ohne dieses Wort formuliert werden können.
+Label: Risiken und Ethik
+
+---
+
+Question: Bei welcher Anfrage könnte ein Inhaltsfilter eher eingreifen?
+Answer: Eine Person bittet um eine Anleitung, wie sie jemandem gezielt schaden kann
+Answer: Eine Person bittet um eine Erklärung, wie ein Gedicht sprachlich aufgebaut ist
+Answer: Eine Person bittet um eine sachliche Zusammenfassung eines historischen Konflikts
+Answer: Eine Person bittet um einen Vergleich verschiedener Nachrichtenberichte zum selben Ereignis
+Explanation: Ein Filter könnte eine konkrete Bitte um Anleitung zu gezielter Schädigung begrenzen. Die genauen Regeln unterscheiden sich je nach System.
+Label: Risiken und Ethik
+
+---
+
+Question: Ein Staat beeinflusst, welche Antworten ein KI-System zu politischen Themen geben darf. Welche Gefahr besteht?
+Answer: Bestimmte politische Sichtweisen könnten gezielt ausgeblendet oder benachteiligt werden
+Answer: Alle politischen Positionen könnten dadurch automatisch gleich sichtbar werden
+Answer: Politische Aussagen könnten dadurch automatisch auf ihren Wahrheitsgehalt geprüft werden
+Answer: Die Antworten könnten dadurch unabhängig von den Vorgaben des Anbieters werden
+Explanation: Wenn ein Staat oder Anbieter Inhalte gezielt begrenzt, kann das beeinflussen, welche Informationen Menschen erhalten. Das Risiko ist eine einseitige Darstellung oder Benachteiligung bestimmter Sichtweisen.
+Label: Risiken und Ethik
+
+---
+
+Question: Welches Risiko steigt besonders, wenn ein KI-System problematische Inhalte kaum filtert?
+Answer: Es könnte auf passende Anfragen Anleitungen zu Gewalt oder Hass ausgeben
+Answer: Es könnte auch nach sorgfältiger Prüfung überzeugend formulierte, aber falsche Fakten nennen
+Answer: Es könnte aufgrund unausgewogener Beispiele bestimmte Gruppen systematisch schlechter bewerten
+Answer: Es könnte vertrauliche Angaben speichern oder preisgeben, wenn Nutzer sie eingeben
+Explanation: Schwache Inhaltsfilter können es wahrscheinlicher machen, dass ein System schädliche oder hasserfüllte Inhalte ausgibt. Falsche Fakten, Verzerrungen und Datenschutzprobleme sind ebenfalls Risiken, haben aber andere Ursachen.
+Label: Risiken und Ethik
+
+---
+
+Question: Wie können KI-Systeme zur Verbreitung von Propaganda missbraucht werden?
+Answer: Sie können viele einseitige oder irreführende Botschaften erzeugen und deren Verbreitung erleichtern
+Answer: Sie können Behauptungen automatisch mit mehreren unabhängigen Quellen abgleichen und korrigieren
+Answer: Sie können unterschiedliche politische Positionen vollständig sammeln und neutral zusammenfassen
+Answer: Sie können die Herkunft politischer Inhalte zuverlässig prüfen und transparent kennzeichnen
+Explanation: KI kann dabei helfen, einseitige oder irreführende Botschaften in großer Zahl zu erstellen. Ob und wie solche Inhalte verbreitet werden, hängt zusätzlich von den Menschen und Kanälen ab, die sie einsetzen.
+Label: Risiken und Ethik
+
+---
+
+Question: Was bedeutet "Halluzination" in der KI?
+Answer: Die KI erzeugt Inhalte, die wie Fakten klingen, aber falsch sind
+Answer: Die KI wird plötzlich selbstbewusst
+Answer: Die KI verweigert jede Antwort
+Answer: Die KI zeigt anstelle von Text nur Bilder
+Explanation: Halluzinationen sind falsche, aber überzeugend formulierte Antworten. Selbstbewusstsein, Antwortverweigerung oder Bilderausgabe haben damit nichts zu tun.
+Label: Grundlagen
+
+---
+
+Question: Eine Ärztin nutzt KI als Unterstützung bei einer Diagnose. Was ist dabei besonders wichtig?
+Answer: Sie gleicht den Vorschlag mit Befunden und Fachwissen ab, da das System Fehler machen kann
+Answer: Sie folgt dem Vorschlag, wenn das Modell eine hohe Sicherheit für seine Einschätzung angibt
+Answer: Sie verzichtet auf weitere Befunde, wenn die Erklärung des Systems ausführlich und klar ist
+Answer: Sie übernimmt die Empfehlung, wenn sie zu üblichen Leitlinien passt, ohne den Einzelfall zu prüfen
+Explanation: Auch eine überzeugende oder sehr sicher klingende KI-Einschätzung kann falsch sein. Die Ärztin muss sie im Zusammenhang mit den Befunden und der individuellen Situation beurteilen.
+Label: Risiken und Ethik
+
+---
+
+Question: Warum kann Ironie für ein KI-System schwer zu erkennen sein?
+Answer: Der Wortlaut kann positiv klingen, obwohl Kritik oder das Gegenteil gemeint ist
+Answer: Der Wortlaut enthält oft seltene Wörter, die ein Sprachmodell nicht auswerten kann
+Answer: Der Wortlaut besteht meist aus grammatikalisch unvollständigen Sätzen
+Answer: Der Wortlaut ist nur über die Stimme verständlich und nie durch den Kontext
+Explanation: Bei Ironie kann die wörtliche Aussage von der gemeinten Aussage abweichen. Kontext und Situation helfen dabei, die beabsichtigte Bedeutung zu erkennen.
+Label: Anwendungen und Fähigkeiten
+
+---
+
+Question: Warum werden traditionelle Algorithmen manchmal einer KI vorgezogen?
+Answer: Weil sie transparent und vorhersehbar sind
+Answer: Weil sie grundsätzlich schneller arbeiten
+Answer: Weil sie keinen Strom verbrauchen
+Answer: Weil sie ganz ohne Daten auskommen
+Explanation: Klassische Algorithmen sind nachvollziehbar und stabil. Geschwindigkeit, Stromfreiheit oder Datenlosigkeit sind falsche Annahmen.
+Label: Anwendungen und Fähigkeiten
+
+---
+
+Question: Eine KI stuft eine Nachricht als möglicherweise manipulativ ein. Was lässt sich daraus schließen?
+Answer: Die Einstufung ist ein Hinweis; ob die Nachricht stimmt, sollte man mit verlässlichen Quellen prüfen
+Answer: Die Nachricht ist nachweislich falsch, weil das System sie als manipulativ markiert hat
+Answer: Die Behauptung wurde durch mehrere unabhängige Quellen bestätigt und ist deshalb korrekt
+Answer: Die Einstufung zeigt zuverlässig, wer die Nachricht ursprünglich erstellt und verbreitet hat
+Explanation: Eine KI-Einstufung beweist weder, dass eine Aussage falsch ist, noch bestätigt sie deren Richtigkeit oder Urheberschaft. Wichtige Behauptungen sollte man anhand verlässlicher Quellen prüfen.
+Label: Grundlagen
+
+---
+
+Question: Was beschreibt das Zielausrichtungsproblem bei einer hypothetischen, sehr leistungsfähigen KI?
+Answer: Sie könnte ein Ziel verfolgen, das nicht den Absichten oder Werten der Menschen entspricht
+Answer: Sie könnte für komplexe Aufgaben mehr Rechenleistung benötigen, als ihre Hardware bereitstellt
+Answer: Sie könnte in langen Gesprächen frühere Informationen aus dem Kontextfenster verlieren
+Answer: Sie könnte neue Informationen ohne Internetzugang nicht mit aktuellen Quellen abgleichen
+Explanation: Beim Zielausrichtungsproblem geht es um die Sorge, dass eine leistungsfähige KI ein vorgegebenes Ziel anders verfolgt, als Menschen es beabsichtigen oder verantworten würden.
+Label: Grundlagen

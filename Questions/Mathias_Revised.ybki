@@ -1,0 +1,117 @@
+Question: Welcher dieser Bereiche gehört typischerweise NICHT zu den Teilgebieten der KI?
+Answer: Netzwerkadministration
+Answer: Maschinelles Lernen
+Answer: Bildverarbeitung
+Answer: Verarbeitung natürlicher Sprache
+Explanation: Maschinelles Lernen, Bildverarbeitung und Sprachverarbeitung sind typische KI-Bereiche. Netzwerkadministration beschäftigt sich mit dem Betrieb und der Verwaltung von Computernetzwerken.
+Label: Grundwissen KI
+
+---
+
+Question: Wie funktioniert Deep Learning grundsätzlich?
+Answer: Ein System lernt aus Beispielen, erkennt Muster und nutzt sie für neue Fälle
+Answer: Ein System folgt festen Regeln, die Menschen für jeden möglichen Fall vorgeben
+Answer: Ein System sucht in einer Datenbank nach bereits gespeicherten passenden Antworten
+Answer: Ein System sortiert Daten nach Kategorien, die Menschen vorher ausgewählt haben
+Explanation: Beim Deep Learning lernt ein System aus Beispielen, Muster zu erkennen und auf neue Fälle anzuwenden. Die Antwort beschreibt den grundlegenden Ablauf, ohne nach dem inneren Aufbau des Modells zu fragen.
+Label: Grundwissen KI
+
+---
+
+Question: Was versteht man unter "überwachtem Lernen"?
+Answer: Lernen anhand von gekennzeichneten Daten
+Answer: Lernen ohne jegliche Daten
+Answer: Lernen durch Ausprobieren ohne Rückmeldung
+Answer: Lernen durch evolutionäre Prozesse
+Explanation: Beim überwachten Lernen trainiert man ein Modell mit Eingaben und den dazugehörigen richtigen Ausgaben.
+Label: Grundwissen KI
+
+---
+
+Question: Was bedeutet "Bias" bei einem KI-System?
+Answer: Das System liefert systematisch verzerrte Ergebnisse, die manche Gruppen benachteiligen können
+Answer: Das System benötigt besonders viel Rechenleistung, um große Datenmengen zu verarbeiten
+Answer: Das System kann seine Entscheidungen nicht verständlich erklären oder begründen
+Answer: Das System speichert persönliche Daten länger, als es für seine Aufgabe wirklich nötig ist
+Explanation: Bias bedeutet eine systematische Verzerrung. Sie kann dazu führen, dass ein KI-System für bestimmte Personen oder Gruppen schlechtere oder unfairere Ergebnisse liefert.
+Label: Grundwissen KI
+
+---
+
+Question: Was prüft der Turing-Test in seiner klassischen Form?
+Answer: Ob ein Mensch in einem Gespräch erkennen kann, ob die Antworten von einer Maschine oder einem Menschen stammen
+Answer: Ob ein Computer schneller rechnen kann als ein Mensch
+Answer: Ob ein KI-Modell anhand gekennzeichneter Daten lernen kann
+Answer: Ob die Antworten eines KI-Systems immer sachlich richtig sind
+Explanation: Der Turing-Test fragt, ob eine Maschine in einer Unterhaltung für einen Menschen von einer Person zu unterscheiden ist. Ein Bestehen beweist jedoch nicht, dass die Maschine tatsächlich versteht oder intelligent ist.
+Label: Grundwissen KI
+
+---
+
+Question: Was kann generative KI grundsätzlich tun?
+Answer: Neue Inhalte wie Texte oder Bilder erzeugen, indem sie gelernte Muster verwendet
+Answer: Eingaben ausschließlich mit festen Regeln abgleichen und passende Regeln ausführen
+Answer: Informationen aus einer Datenbank suchen und unverändert als Ergebnis wiedergeben
+Answer: Zufällige Inhalte ausgeben, ohne Eingaben oder gelernte Muster zu berücksichtigen
+Explanation: Generative KI kann neue Inhalte erzeugen, indem sie Muster aus Beispielen nutzt. Das Ergebnis ist nicht einfach eine unveränderte Kopie eines einzelnen Beispiels.
+Label: Grundwissen KI
+
+---
+
+Question: Warum sind Deepfakes ein ethisches Problem?
+Answer: Sie können Menschen täuschend echt Dinge sagen oder tun lassen, die sie nie gemacht haben
+Answer: Sie erhöhen die Qualität von Filmen
+Answer: Sie verbessern medizinische Bilddiagnostik
+Answer: Sie helfen bei der Kompression von Daten
+Explanation: Deepfakes können zur Manipulation, Verleumdung oder gezielten Desinformation genutzt werden.
+Label: Ethik
+
+---
+
+Question: Welche mögliche Gefahr kann der Einsatz von KI auf dem Arbeitsmarkt mit sich bringen?
+Answer: Bestimmte Tätigkeiten oder Arbeitsplätze können wegfallen, wenn Aufgaben automatisiert werden
+Answer: Wiederkehrende Aufgaben können schneller erledigt werden und Beschäftigte entlasten
+Answer: Beschäftigte können bei aufwendigen Arbeitsschritten zusätzliche Unterstützung erhalten
+Answer: Unternehmen können Entscheidungen mit zusätzlichen Informationen besser vorbereiten
+Explanation: Wenn KI automatisiert, können bestimmte Tätigkeiten oder Arbeitsplätze wegfallen. Das ist eine mögliche Folge, keine automatische Entwicklung; es hängt davon ab, welche Aufgaben übernommen werden und wie der Wandel gestaltet wird.
+Label: Ethik
+
+---
+
+Question: Welches gesellschaftliche Risiko besteht, wenn Gesichtserkennung ohne klare Grenzen eingesetzt wird?
+Answer: Menschen können unbemerkt identifiziert und im Alltag überwacht werden
+Answer: Kameras können bei wenig Licht häufiger unscharfe Bilder aufnehmen
+Answer: Gesichter können aus ungewöhnlichen Blickwinkeln schwerer erkennbar sein
+Answer: Bilddateien können bei hoher Auflösung mehr Speicherplatz benötigen
+Explanation: Bei einem breiten Einsatz ohne klare Grenzen können Menschen identifiziert und verfolgt werden, ohne davon zu wissen. Die anderen Antworten beschreiben eher technische Einschränkungen oder Folgen.
+Label: Ethik
+
+---
+
+Question: Ein KI-System sortiert Bewerbungen vor. Welche Information hilft Betroffenen und Verantwortlichen, die Einstufung nachzuvollziehen?
+Answer: Welche Kriterien gelten und ob sie bei allen Bewerbungen einheitlich angewendet werden
+Answer: Wie viele Bewerbungen das System in einer typischen Arbeitsstunde verarbeiten kann
+Answer: Welche Programmiersprache bei der Entwicklung des Systems verwendet wurde
+Answer: Wie viel Speicherplatz das System während seiner Bewertung auf dem Server benötigt
+Explanation: Transparenz umfasst auch, welche Regeln gelten und ob sie einheitlich angewendet werden. Das hilft, das Verfahren zu prüfen; es garantiert für sich allein noch keine faire Bewertung.
+Label: Ethik
+
+---
+
+Question: Ein KI-basiertes Empfehlungssystem erfasst, welche Videos jemand ansieht und wie lange. Welches ethische Risiko kann dadurch entstehen?
+Answer: Aus dem Verlauf können Interessen und Gewohnheiten abgeleitet und Profile erstellt werden
+Answer: Die Wiedergabe kann anhand der Nutzung an Bildschirm und Verbindung angepasst werden
+Answer: Die Videoliste kann nach Themen, Länge und bereits gesehenen Inhalten geordnet werden
+Answer: Ähnliche Inhalte können anhand ihrer Themen leichter gefunden und gemeinsam angezeigt werden
+Explanation: Der Verlauf kann sensible Rückschlüsse auf Interessen und Gewohnheiten ermöglichen. Das Risiko entsteht besonders, wenn solche Profile ohne ausreichendes Wissen oder Kontrolle der betroffenen Person erstellt oder genutzt werden.
+Label: Ethik
+
+---
+
+Question: Warum wird der Energieverbrauch großer KI-Systeme auch ethisch diskutiert?
+Answer: Weil Stromverbrauch und Hardwareherstellung die Umwelt belasten können
+Answer: Weil ein hoher Energiebedarf dazu führt, dass das Modell gelernte Muster vergisst
+Answer: Weil der Betrieb mit viel Strom die Antworten automatisch ungenauer macht
+Answer: Weil ein hoher Energieverbrauch persönliche Daten öffentlich zugänglich macht
+Explanation: Training und Betrieb großer KI-Systeme können viel Strom und Rechenhardware benötigen, was die Umwelt belasten kann. Der Energieverbrauch verursacht nicht automatisch die anderen genannten Effekte.
+Label: Ethik
